@@ -6,7 +6,8 @@ public class ClassGradeEx3_2 {
 
         DiscountService discountService = new DiscountService();
 
-/*        Grade myGrade = new Grade(); //enum 생성 불가
+/*
+        Grade myGrade = new Grade(); //enum 생성 불가
         int result = discountService.discount(myGrade, price);
         System.out.println("result: " + result);
 */
