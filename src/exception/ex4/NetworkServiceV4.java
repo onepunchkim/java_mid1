@@ -1,6 +1,5 @@
 package exception.ex4;
 
-
 public class NetworkServiceV4 {
     public void sendMessage(String data) {
         String address = "http://example.com";
